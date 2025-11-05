@@ -8,14 +8,14 @@ Its goal is to serve as a reference and practice material to strengthen knowledg
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
 1. [JavaScript Modules](#-javascript-modules)
 2. [SQL Modules](#-sql-modules)
 
 ---
 
-## 📂 JavaScript Modules
+## JavaScript Modules
 
 ![FullStack CRUD Demo Banner](https://img.shields.io/badge/FullStack-JavaScript-blue?style=for-the-badge&logo=javascript)  
 ![GitHub repo size](https://img.shields.io/github/repo-size/lucianafalcon/fullstack_crud_demo?style=flat-square)
@@ -35,14 +35,14 @@ Covers everything from the basics of the language to modern frameworks, includin
 
 Mini-proyects:
 
-- **Macronutrients Counter 🥑** [Live Demo](https://lucianafalcon.github.io/Fullstack_Crud_Demo/macros.html)
+- **Macronutrients Counter ** [Live Demo](https://lucianafalcon.github.io/Fullstack_Crud_Demo/macros.html)
 
   - **Features:** Track and update your macronutrients in real time, persist in localStorage
 
-- **Ecommerce Cart 🛒** [Live Demo](https://lucianafalcon.github.io/Fullstack_Crud_Demo/ecommerce.html)
+- **Ecommerce Cart ** [Live Demo](https://lucianafalcon.github.io/Fullstack_Crud_Demo/ecommerce.html)
   - **Features:** Add/remove products, persist in localStorage
 
-### ▶️ Execution
+### Execution
 
 1. Clone this repository and open it in a text editor ([Visual Studio Code](https://code.visualstudio.com/) recommended).
 2. Open the `.html` files in a modern web browser.
@@ -51,7 +51,7 @@ Mini-proyects:
 
 ---
 
-## 📂 SQL Modules
+## SQL Modules
 
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database)
@@ -64,13 +64,13 @@ Planned modules include:
 - **4. Table Objects** – Creating, modifying, and managing tables and their properties.
 - **5. Views** – Creating and using views to simplify queries and enhance security.
 
-### ▶️ Execution
+### Execution
 
 1. Download from [mysql.com](https://dev.mysql.com/downloads/).
 2. Install [MySQL Server](https://dev.mysql.com/downloads/mysql/) (**required**).
 3. (Optional) Install [MySQL Workbench](https://dev.mysql.com/downloads/workbench/) as a graphical client.
 
-### 💡 Extra (Recommended Tools)
+### Extra (Recommended Tools)
 
 4. [Lucidchart](https://lucid.app/) for designing DER.
 5. [Mockaroo](https://www.mockaroo.com/) Generate test data.
