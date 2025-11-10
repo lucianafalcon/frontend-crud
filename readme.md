@@ -48,9 +48,3 @@ Mini-proyects:
 2. Open the `.html` files in a modern web browser.
 3. Each folder includes the corresponding scripts with `.js` extension.
 4. Modify and test the examples directly in the browser to see the results in real time.
-
-### Extra (Recommended Tools)
-
-3. [Lucidchart](https://lucid.app/) for designing DER.
-4. [Mockaroo](https://www.mockaroo.com/) Generate test data.
-
