@@ -49,26 +49,6 @@ Mini-proyects:
 3. Each folder includes the corresponding scripts with `.js` extension.
 4. Modify and test the examples directly in the browser to see the results in real time.
 
----
-
-## SQL Modules
-
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database)
-
-Planned modules include:
-
-- **1. Intro** – Basic SQL syntax and queries.
-- **2. Statements and Sublanguages** – Overview of SQL statements and their sublanguages (DML, DDL, DCL, TCL).
-- **3. Queries, Subqueries, and DDL** – How to write queries, nested queries, and define database structures.
-- **4. Table Objects** – Creating, modifying, and managing tables and their properties.
-- **5. Views** – Creating and using views to simplify queries and enhance security.
-
-### Execution
-
-1. [MySQL Server](https://dev.mysql.com/downloads/mysql/) (**required**).
-2. (Optional) Install [MySQL Workbench](https://dev.mysql.com/downloads/workbench/) as a graphical client.
-
 ### Extra (Recommended Tools)
 
 3. [Lucidchart](https://lucid.app/) for designing DER.
