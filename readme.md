@@ -34,12 +34,3 @@ Mini-proyects:
 
 - **Ecommerce Cart
   - **Features:** Add/remove products, persist in localStorage
-
----
-
-### Execution
-
-1. Clone this repository and open it in a text editor ([Visual Studio Code](https://code.visualstudio.com/) recommended).
-2. Open the `.html` files in a modern web browser.
-3. Each folder includes the corresponding scripts with `.js` extension.
-4. Modify and test the examples directly in the browser to see the results in real time.
