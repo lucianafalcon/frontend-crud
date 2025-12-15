@@ -1,4 +1,4 @@
-# FullStack CRUD Demo
+# Frontend CRUD 
 
 ![License](https://img.shields.io/badge/license-CC0-lightgreen?style=flat-square)  
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange?style=flat-square)
@@ -10,7 +10,7 @@ Its goal is to serve as a reference and practice material to strengthen knowledg
 
 ## Table of Contents
 
-![FullStack CRUD Demo Banner](https://img.shields.io/badge/FullStack-JavaScript-blue?style=for-the-badge&logo=javascript)  
+![Frontend CRUD Demo Banner](https://img.shields.io/badge/FullStack-JavaScript-blue?style=for-the-badge&logo=javascript)  
 ![GitHub repo size](https://img.shields.io/github/repo-size/lucianafalcon/fullstack_crud_demo?style=flat-square)
 
 Covers everything from the basics of the language to modern frameworks, including essential tools like Node.js and NPM.
