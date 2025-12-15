@@ -4,7 +4,7 @@
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange?style=flat-square)
 
 This repository contains examples, exercises, and explanations created by me, organized into thematic modules, to understand and master the development of modern web applications.  
-Its goal is to serve as a reference and practice material to strengthen knowledge in IT and FullStack development.
+Its goal is to serve as a reference and practice material to strengthen knowledge in IT and fontend development.
 
 ---
 
@@ -28,11 +28,11 @@ Covers everything from the basics of the language to modern frameworks, includin
 
 Mini-proyects:
 
-- **Macronutrients Counter ** [Live Demo](https://lucianafalcon.github.io/Fullstack_Crud_Demo/macros.html)
+- **Macronutrients Counter ** [Live Demo](https://lucianafalcon.github.io/frontend_Crud_Demo/macros.html)
 
   - **Features:** Track and update your macronutrients in real time, persist in localStorage
 
-- **Ecommerce Cart ** [Live Demo](https://lucianafalcon.github.io/Fullstack_Crud_Demo/ecommerce.html)
+- **Ecommerce Cart ** [Live Demo](https://lucianafalcon.github.io/frontend_Crud_Demo/ecommerce.html)
   - **Features:** Add/remove products, persist in localStorage
 
 ---
