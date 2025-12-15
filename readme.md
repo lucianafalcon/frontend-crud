@@ -10,7 +10,7 @@ Its goal is to serve as a reference and practice material to strengthen knowledg
 
 ## Table of Contents
 
-![Frontend CRUD Demo Banner](https://img.shields.io/badge/FullStack-JavaScript-blue?style=for-the-badge&logo=javascript)  
+![Frontend CRUD Demo Banner](https://img.shields.io/badge/Frontend-JavaScript-blue?style=for-the-badge&logo=javascript)  
 ![GitHub repo size](https://img.shields.io/github/repo-size/lucianafalcon/fullstack_crud_demo?style=flat-square)
 
 Covers everything from the basics of the language to modern frameworks, including essential tools like Node.js and NPM.
@@ -28,11 +28,11 @@ Covers everything from the basics of the language to modern frameworks, includin
 
 Mini-proyects:
 
-- **Macronutrients Counter ** [Live Demo](https://lucianafalcon.github.io/frontend_Crud_Demo/macros.html)
+- **Macronutrients Counter 
 
   - **Features:** Track and update your macronutrients in real time, persist in localStorage
 
-- **Ecommerce Cart ** [Live Demo](https://lucianafalcon.github.io/frontend_Crud_Demo/ecommerce.html)
+- **Ecommerce Cart
   - **Features:** Add/remove products, persist in localStorage
 
 ---
